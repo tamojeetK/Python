@@ -1,2 +1,2 @@
 # Python
-Regular  notes.py
+Regular  notes.py made by me.
