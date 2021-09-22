@@ -26,6 +26,12 @@ print("length of the string is" , len(text))
 
 # ********************
 
+#Remove Whitespace
+a = " Hello, World! "
+print(a.strip()) # returns "Hello, World!"
+
+# *********************
+
 # Replacing Parts of String >> string.replace(old substring, new substring)
 b = text.replace("text" , "string")
 print(b)
@@ -40,6 +46,12 @@ d = text2.replace("World", "Everyone", 2)
 print(d)
 
 # *********************
+
+# Split String
+a = "Hello, World!"
+print(a.split(",")) # returns ['Hello', ' World!']
+
+# **********************
 
 # Checking Presence of Value on a String
 m = "goes" in text
