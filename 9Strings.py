@@ -41,4 +41,4 @@ print(text[-1]) #prints e
 print(text[-2]) #prints n
 
 #Slicing
-print(text4[3:7]) #prints ever (while slicing the end index is not included)
+print(text4[3:7]) #prints ever while slicing the end index is not included
