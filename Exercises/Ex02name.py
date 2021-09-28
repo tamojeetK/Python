@@ -1,0 +1,5 @@
+print("----This program displays your initials----")
+initial = str(input("Enter your 1st name : "))
+mid = str(input("Enter your middle name : "))
+last = str(input("Enter your last name : "))
+print("\n Your initials are : ", initial[0], mid[0], last[0])
